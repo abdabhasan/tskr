@@ -1,0 +1,16 @@
+export { default as Hero } from "./Hero";
+export { default as Logo } from "./Logo";
+export { default as LogoWhite } from "./LogoWhite";
+export { default as Footer } from "./Footer";
+export { default as SocialMedia } from "./SocialMedia";
+export { default as About } from "./About";
+export { default as Contact } from "./Contact";
+export { default as FAQs } from "./FAQs";
+export { default as Newsroom } from "./Newsroom";
+export { default as UsThem } from "./UsThem";
+export { default as Header } from "./Header";
+export { default as Overlay } from "./Overlay";
+export { default as Qoute } from "./Qoute";
+export { default as Skills } from "./Skills";
+export { default as AccordionSet } from "./Accordion";
+export { default as Card } from "./Card";
